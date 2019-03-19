@@ -1,0 +1,13 @@
+body {
+    background-color: dodgerblue;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+    font-weight: 900;
+    font-size: 1.8em;
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: 70px;
+}
